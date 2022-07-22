@@ -13,6 +13,7 @@ search: key(/)
 label: key(l)
 snooze: key(b)
 trash: key(#)
+archive: key(e)
 
 # Navigation
 inbox: 
