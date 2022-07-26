@@ -1,4 +1,4 @@
-# hotkey to toggle Talon sleep/wake
+# hotkey to toggle Talon sleep/wake, different modes
 key(ctrl-alt-v): speech.toggle()
 
 # Some alternate talon commands
