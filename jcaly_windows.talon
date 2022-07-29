@@ -7,6 +7,9 @@ os: windows
 
 # Start and window management
 launch: key(win)
+(window | win) max: key(win-up)
+(window | win) min: key(win-down)
+
 
 # Power Toys
 ## Everything below this requires Power Toys to be installed and running to work.
@@ -14,6 +17,6 @@ launch: key(win)
 #(shorts | shortcuts): key(win-shift-/)
 
 ## Global mute
-mute all: key(win-shift-q)
-mute mike: key(win-shift-t)
-(vid | video) (on | off): key(win-shift-o)
+#mute all: key(win-shift-q)
+#mute mike: key(win-shift-t)
+#(vid | video) (on | off): key(win-shift-o)
