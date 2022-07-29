@@ -13,7 +13,7 @@ direct [messages]: key(ctrl-alt-right)
 
 # Messages
 [message] edit: key(e)
-[message] delete: key(backspace)
+[message] (trash | delete): key(backspace)
 [message] reply: key(r)
 [message] react: key(plus)
 (add | new) line: key(shift-enter)
