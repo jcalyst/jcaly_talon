@@ -1,4 +1,4 @@
-# Additional talon voice commands for discord
+# Additional talon voice commands for discord. These supplement the other discord relevant voice commands which can be found in knausj_talon\apps\discord\discord.talon and knausj_talon\misc\messaging.talon
 
 os: windows
 app: discord
