@@ -30,11 +30,4 @@ inside strike: user.insert_between("~~", "~~")
 underline <user.text>: "__{user.text}__"
 inside (underline | under): user.insert_between("__", "__")
 spoilers: user.insert_between("||", "||")
-    # insert("||||")
-    # key(left)
-    # key(left)
 insert code: user.insert_between("```", "```")
-    # "``````"    
-    # key(left)
-    # key(left)
-    # key(left)
