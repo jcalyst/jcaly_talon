@@ -1,3 +1,5 @@
+# Adapted from the knausj user repo
+
 tag: user.emoji
 -
 
@@ -5,4 +7,3 @@ tag: user.emoji
 (emoji | emo) {user.emoji}: user.paste(emoji)
 (emoticon | emote) {user.emoticon}: "{emoticon}"
 kaomoji {user.kaomoji}: user.paste(kaomoji)
-
